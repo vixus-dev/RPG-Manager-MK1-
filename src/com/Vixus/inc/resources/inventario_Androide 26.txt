@@ -1,0 +1,9 @@
+Cápsula de energia Pequena;Restaura 10% da energia máxima;4
+Cápsula de forma Pequena;Restaura 10% dos pontos de forma;2
+Cápsula de energia Suprema;Restaura 100% da energia máxima;3
+Cápsula MIX Grande;Restaura 50% da vida e energia máxima;1
+Semente dos Deuses;Restaura 100% de Vida,Energia e Pontos de forma;1
+Cápsula de HP Suprema;Restaura 100% da vida máxima;1
+Cápsula de forma Suprema;Restaura 100% dos pontos de forma;1
+Descartar Energia;Restaura 25% de bateria;99
+Forçar Resfriamento;Restaura 50% de bateria;99

@@ -1,0 +1,7 @@
+Cápsula de HP Pequena;Restaura 10% da vida máxima;2
+Cápsula de energia Pequena;Restaura 10% da energia máxima;2
+Cápsula de forma Pequena;Restaura 10% dos pontos de forma;3
+Cápsula de HP Grande;Restaura 50% da vida máxima;2
+Cápsula de HP Suprema;Restaura 100% da vida máxima;1
+Cápsula MIX Média;Restaura 25% da vida e energia máxima;2
+Cápsula de forma Suprema;Restaura 100% dos pontos de forma;1

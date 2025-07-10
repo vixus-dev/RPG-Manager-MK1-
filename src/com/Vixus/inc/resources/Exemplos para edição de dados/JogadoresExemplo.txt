@@ -1,0 +1,8 @@
+#Formato Jogador;HP;ATK;Energia;Velocidade;PontosDeForma;percepção;carisma;inteligencia;agilidade;sorte
+Yamaji;1560;54;960;114;10;d1;d10;d1;d20;d10
+
+
+
+
+
+
