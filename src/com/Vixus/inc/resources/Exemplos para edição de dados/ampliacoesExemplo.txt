@@ -1,0 +1,4 @@
+#Formato: ampliação(%);custo por turno
+Super Lee;250;0
+
+

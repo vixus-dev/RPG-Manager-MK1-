@@ -1,0 +1,28 @@
+# Formato: nomeItem;descrição do item
+Cápsula de HP Pequena;Restaura 10% da vida máxima
+Cápsula de HP Média;Restaura 25% da vida máxima
+Cápsula de HP Grande;Restaura 50% da vida máxima
+Cápsula de HP Suprema;Restaura 100% da vida máxima
+#
+Cápsula de energia Pequena;Restaura 10% da energia/bateria máxima
+Cápsula de energia Média;Restaura 25% da energia/bateria máxima
+Cápsula de energia Grande;Restaura 50% da energia/bateria máxima
+Cápsula de energia Suprema;Restaura 100% da energia/bateria máxima
+#
+Cápsula de forma Pequena;Restaura 10 dos pontos de forma
+Cápsula de forma Média;Restaura 25 dos pontos de forma
+Cápsula de forma Grande;Restaura 50 dos pontos de forma
+Cápsula de forma Suprema;Restaura 100 pontos de forma
+#
+Cápsula Sonora Pequena;Restaura 20% da vida máxima
+Cápsula Sonora Média;Restaura 40% da vida máxima
+Cápsula Sonora Grande;Restaura 60% da vida máxima
+#
+Cápsula MIX Pequena;Restaura 10% da vida e energia máxima
+Cápsula MIX Média;Restaura 25% da vida e energia máxima
+Cápsula MIX Grande;Restaura 50% da vida e energia máxima
+#
+Semente dos Deuses;Restaura completamente um guerreiro
+#
+Descartar Energia;Restaura 25% de bateria
+Forçar Resfriamento;Restaura 50% de bateria

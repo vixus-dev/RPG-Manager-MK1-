@@ -1,0 +1,2 @@
+#Formato: multiplicador;CustoPorTurno
+Pressagio;5;1

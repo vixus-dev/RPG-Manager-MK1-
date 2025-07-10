@@ -1,0 +1,3 @@
+#Formato: Custo;QuantiaDeDados;TamanhodosDados
+Soco;10;1;10
+

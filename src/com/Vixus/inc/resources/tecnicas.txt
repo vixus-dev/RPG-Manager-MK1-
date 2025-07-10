@@ -1,0 +1,20 @@
+#Formato: Custo;QuantiaDeDados;TamanhodosDados
+Soco;10;1;10
+Soco V2;10;2;5
+Soco V3;10;3;4
+Ki Blast;10;1;5
+Contra Ataque;50;1;10
+Quebra ossos;30;2;10
+Grande Pancada;80;1;50
+Super Perseguição;100;4;10
+Mafuba;50;0;0
+Laminas da justiça;200;9;20
+Novo Kikouhou;40;1;40
+Genki-Dama;200;2;50
+Planet Burst;100;1;50
+Makankosappo;40;1;30
+Grande Rajada de KI;30;6;5
+Teletransporte;200;0;0
+Duplo Tsuihikidan;80;2;16
+Transformar em doce;400;0;0
+S.Kamehameha;200;1;70

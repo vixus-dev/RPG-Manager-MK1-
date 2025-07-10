@@ -1,0 +1,10 @@
+LOCAIS YEYEYEYEYEY
+
+private void importarDados() {
+        importarJogadores("src/com/Vixus/inc/resources/Jogadores.txt");
+        //Nome,HP,ATK,Energia,Velocidade,PontosForma
+        importarTransformacoes("src/com/Vixus/inc/resources/transformacoes.txt");
+        //Nome,Multiplicador,CustoPorTurno
+        importarAmpliacoes("src/com/Vixus/inc/resources/ampliacoes.txt");
+        //Nome,BonusMultiplicador,CustoPorTurno
+    }
